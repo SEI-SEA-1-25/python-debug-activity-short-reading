@@ -11,7 +11,7 @@ Questions? Comments?
 
 In this homework, you're going to write code for a challenge problem and answer some reading comprehension questions.
 
-You will practice these programming concepts we've covered in class:
+You will practice the following programming concepts:
 
 * Type conversion
 * Escape characters and string formatting
@@ -22,7 +22,7 @@ You will practice these programming concepts we've covered in class:
 
 ## Deliverables
 
-Part of this homework will be code challenges and part will be reading with comprehension questions.
+Part of this assignment will be code challenges and part will be reading with comprehension questions.
 
 For the reading quiz, make a text file called `answers.txt` and use it to compile your answers to the numbered questions.
 
