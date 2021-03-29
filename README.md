@@ -9,7 +9,7 @@ Questions? Comments?
 3. Hit me up on Slack at @brandib.
 --->
 
-In this homework, you're going to write code for a challenge problem and answer some reading comprehension questions.
+In this assignment, you're going to write code for a challenge problem and answer some reading comprehension questions.
 
 You will practice the following programming concepts:
 
